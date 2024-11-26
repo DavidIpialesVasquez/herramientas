@@ -9,3 +9,7 @@ Respuesta:
  git status
 
 3. ¿Cómo se agregan archivos al área de preparacion?
+
+Respuesta:
+git add <nombre_del_archivo>
+git add .
