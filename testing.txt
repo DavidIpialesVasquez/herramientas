@@ -18,3 +18,5 @@ git add .
 
 Respuesta:
 git commit -m "Mensaje de confirmación"
+
+5. ¿Qué comando se utiliza para crear una nueva rama?
