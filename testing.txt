@@ -20,3 +20,7 @@ Respuesta:
 git commit -m "Mensaje de confirmación"
 
 5. ¿Qué comando se utiliza para crear una nueva rama?
+
+Respuesta:
+
+git branch <nombre_de_la_rama>
