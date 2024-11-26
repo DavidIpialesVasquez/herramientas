@@ -1,0 +1,2 @@
+--------PREGUNTAS--------- 
+1. ¿Qué comando se utiliza para clonar un repositorio existente?
