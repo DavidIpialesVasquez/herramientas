@@ -7,3 +7,5 @@ git clone <URL_del_repositorio>
 
 Respuesta:
  git status
+
+3. ¿Cómo se agregan archivos al área de preparacion?
