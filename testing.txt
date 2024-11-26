@@ -15,3 +15,6 @@ git add <nombre_del_archivo>
 git add .
 
 4. ¿Qué comando se usa para confirmar los cambios en Git?
+
+Respuesta:
+git commit -m "Mensaje de confirmación"
