@@ -4,3 +4,6 @@ Respuesta:
 git clone <URL_del_repositorio>
 
 2. ¿Cuál es el comando que sirve para verificar el estado actual del repositorio local?
+
+Respuesta:
+ git status
